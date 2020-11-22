@@ -23,6 +23,8 @@ It contains:
 * A Pi camera or a webcam and 
 * Headphones/Speakers
 
+![]()
+
 On pressing the button on the cane, the camera module will start taking real-time video stream and analyze it using the Caffe Model(Artificial Intelligence Module using OpenCV) to detect the object/person, and then using a speaker or headphone, the cane will voice assist the person about the environment. 
 Also, we are attaching a motor for vibrations so that the detected object will be translated into Morse code since visually impaired people are already trained about it and the vibrations in the motor will be according to the frequency of Morse code. This feature will not only help the blind but also the deaf people about the environment and guide through the path.
 
